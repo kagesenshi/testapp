@@ -35,4 +35,4 @@ spec:
     - protocol: TCP
       port: 8000       # service port
       targetPort: 8000 # container port
-      nodePort: 30080  # external port (accessible on every node)
+      nodePort: 31000  # external port (accessible on every node)
